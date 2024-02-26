@@ -13,7 +13,7 @@ This Python script generates a QR code image from a provided URL. It utilizes th
 
 2.Run the script using Python:
 
-  python qr_code_generator.py
+     python qr_code_generator.py
   
 3.Enter the URL you want to encode when prompted.
 
