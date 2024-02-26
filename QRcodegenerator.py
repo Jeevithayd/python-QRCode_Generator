@@ -1,7 +1,7 @@
 import qrcode
 import matplotlib.pyplot as plt
-# Get URL input from user
-url = input("Enter the URL: ")
+
+url = "https://github.com/Jeevithayd/python-QRCode_Generator"
 
 # Generate QR code
 qr = qrcode.QRCode(
