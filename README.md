@@ -6,4 +6,4 @@ This Python script generates a QR code image from a provided URL. It utilizes th
 
 2.Install required libraries:
  
-  pip install qrcode
+     pip install qrcode
